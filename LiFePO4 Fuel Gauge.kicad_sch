@@ -1,0 +1,392 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f251a449-7cc6-41b8-8cd7-3addc1f4c8b2")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 91.44 78.74) (xy 91.44 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21db3242-8d9b-48ee-b261-eff4fc196a6d")
+	)
+	(wire
+		(pts
+			(xy 96.52 78.74) (xy 91.44 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a23b351-4d28-48c0-8222-02173b410fab")
+	)
+	(wire
+		(pts
+			(xy 93.98 58.42) (xy 93.98 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40fbc218-f53c-487b-96d3-bfc89d8661bc")
+	)
+	(wire
+		(pts
+			(xy 93.98 81.28) (xy 96.52 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a63bb3a-e294-4f75-bde2-ae512b1e771c")
+	)
+	(wire
+		(pts
+			(xy 91.44 54.61) (xy 96.52 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "984d8c72-fee5-4121-a250-e7b17db013fe")
+	)
+	(wire
+		(pts
+			(xy 96.52 58.42) (xy 93.98 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a10c8ef8-b417-4564-beb3-3c02a881ee01")
+	)
+	(sheet
+		(at 46.99 74.93)
+		(size 19.05 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0439a766-85a2-4a1c-b2e7-29ef395918c8")
+		(property "Sheetname" "Power Connectors"
+			(at 46.99 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_connectors.kicad_sch"
+			(at 46.99 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LiFePO4 Fuel Gauge"
+				(path "/f251a449-7cc6-41b8-8cd7-3addc1f4c8b2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 50.8)
+		(size 29.21 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38b07a52-36fb-4df1-912c-0cdf5097b6cb")
+		(property "Sheetname" "Buck Converter"
+			(at 96.52 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buck_converter.kicad_sch"
+			(at 96.52 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT-" input
+			(at 96.52 58.42 180)
+			(uuid "c566ecce-e020-4636-9489-aff64689208b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT+" input
+			(at 96.52 54.61 180)
+			(uuid "3bda874b-4675-4831-9f5e-d204d5f0f93f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LiFePO4 Fuel Gauge"
+				(path "/f251a449-7cc6-41b8-8cd7-3addc1f4c8b2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 57.15)
+		(size 27.94 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9aa67094-b123-454c-977c-8f0a24d50ae0")
+		(property "Sheetname" "STM32"
+			(at 190.5 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32.kicad_sch"
+			(at 190.5 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LiFePO4 Fuel Gauge"
+				(path "/f251a449-7cc6-41b8-8cd7-3addc1f4c8b2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 69.85)
+		(size 29.21 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec4eae8b-4bfa-4fed-bd57-4d7361c6d884")
+		(property "Sheetname" "Gauge"
+			(at 96.52 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gauge.kicad_sch"
+			(at 96.52 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT+" output
+			(at 96.52 78.74 180)
+			(uuid "4b5405b9-d669-4002-91a9-d37fbcee79bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAT-" input
+			(at 96.52 90.17 180)
+			(uuid "51a9ef12-31c0-4780-b99e-e212fbada025")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2V5" input
+			(at 111.76 69.85 90)
+			(uuid "313e0770-ae32-4cd8-8585-5518f290bdf6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "uC_EN" input
+			(at 125.73 78.74 0)
+			(uuid "0add0eff-7ec0-4ff2-864d-f56976d8c39f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT-" output
+			(at 96.52 81.28 180)
+			(uuid "50eaf6be-92ef-4603-adae-4b14a10f5d5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "uC_Measure" input
+			(at 125.73 81.28 0)
+			(uuid "45ec3b92-5a86-4fd4-abb1-463f2dda5f3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "103AT_2" input
+			(at 96.52 102.87 180)
+			(uuid "a44413b3-1672-482f-b0c0-bbfafc708eee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAT+" input
+			(at 96.52 87.63 180)
+			(uuid "bd582473-4a4a-4cf0-bcf6-49ce3c82d86f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "103AT_1" input
+			(at 96.52 105.41 180)
+			(uuid "a5dc3590-b543-45cb-81b2-2ef0b2839922")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "uC_SDA" bidirectional
+			(at 125.73 87.63 0)
+			(uuid "8c611f51-b5e1-4efa-a343-6bb2d51f9f33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "uC_SCL" input
+			(at 125.73 90.17 0)
+			(uuid "a7e49f83-295a-46a7-b892-d2ec6fc61f28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "uC_ALERT" output
+			(at 125.73 102.87 0)
+			(uuid "0300cc22-a4b8-4941-b65a-5fafe313e423")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "uC_STATE" output
+			(at 125.73 105.41 0)
+			(uuid "adcbf9f7-1c68-47fd-812a-392dfa8058d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "LiFePO4 Fuel Gauge"
+				(path "/f251a449-7cc6-41b8-8cd7-3addc1f4c8b2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
