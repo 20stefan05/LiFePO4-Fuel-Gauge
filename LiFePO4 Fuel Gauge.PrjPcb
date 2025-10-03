@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RTYDNBAZ
 
 [Document3]
+DocumentPath=STM32.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPDZRUTV
+
+[Document4]
 DocumentPath=Fuel Gauge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQTJZVYL
 
-[Document4]
+[Document5]
 DocumentPath=Buck Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
