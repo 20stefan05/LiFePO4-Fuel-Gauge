@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_Buck Converter|SchDesignator=U_Buck Converter|FileName=Buck Converter.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Buck Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_Fuel Gauge|SchDesignator=U_Fuel Gauge|FileName=Fuel Gauge.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Fuel Gauge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_Input Protection|SchDesignator=U_Input Protection|FileName=Input Protection.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Input Protection.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=STM32.SchDoc|SheetNumber=5
