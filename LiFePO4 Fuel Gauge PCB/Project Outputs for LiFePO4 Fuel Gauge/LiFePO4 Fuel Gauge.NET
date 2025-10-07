@@ -1,0 +1,657 @@
+Wire List
+
+<<< Component List >>>
+503159-0200                     1              5031590200
+503159-0200                     2              5031590200
+Capacitor_SMD                   C1             CAP_0603
+Capacitor_SMD                   C2             CAP_0603
+Capacitor_SMD                   C3             CAP_0603
+Capacitor_SMD                   C4             CAP_0603
+Capacitor_SMD                   C5             CAP_0603
+Capacitor_SMD                   C6             CAP_0603
+Capacitor_SMD                   C7             CAP_0603
+Capacitor_SMD                   C8             CAP_0603
+Capacitor_SMD                   C9             CAP_0603
+Capacitor_SMD                   C10            CAP_0603
+Capacitor_SMD                   C11            CAP_0603
+Capacitor_SMD                   C12            CAP_0603
+Capacitor_SMD                   C13            CAP_0603
+Capacitor_SMD                   C14            CAP_0603
+Capacitor_SMD                   C15            CAP_0603
+Capacitor_SMD                   C16            CAP_0603
+Capacitor_SMD                   C17            CAP_0603
+Capacitor_SMD                   C18            CAP_0603
+Capacitor_SMD                   C19            CAP_0603
+Capacitor_SMD                   C20            CAP_0603
+Capacitor_SMD                   C21            CAP_0603
+Capacitor_SMD                   C22            CAP_0603
+Capacitor_SMD                   C23            CAP_0603
+Capacitor_SMD                   C24            CAP_0603
+Capacitor_SMD                   C25            CAP_0603
+Capacitor_SMD                   C26            CAP_0603
+Capacitor_SMD                   C27            CAP_0603
+Capacitor_SMD                   C28            CAP_0603
+Capacitor_SMD                   C29            CAP_0603
+Capacitor_SMD                   C30            CAP_0603
+Capacitor_SMD                   C31            CAP_0603
+SZSMF6L30CAT3G                  D1             SMFA2005CA
+VCAN26A2-03G-E3-08              D2             SOT65P230X110-3N
+SP724AHTG                       D3             SOT95P280X145-6N
+BLM18AG601SH1D                  FB1            FP-BLM18-0_15-t0_8-MFG
+SN74LVC2G04DBVRE4               IC1            SOT95P280X145-6N
+BQ34Z100PWR-R2                  IC2            SOP65P640X120-14N
+TPS62933ODRLR                   IC3            SOTFL50P160X60-8N
+TPS62933ODRLR                   IC4            SOTFL50P160X60-8N
+LTC4368IMS-2#PBF                IC5            SOP50P490X110-10N
+STM32L431CBT6                   IC6            QFP50P900X900X160-48N
+TCAN1462DRQ1                    IC7            SOIC127P600X175-8N
+CY7C64225-28PVXC                IC8            SOP65P780X200-28N
+SP723ABTG                       IC9            SOIC127P600X175-8N
+20021321-00014T4LF              J1             2002132100014T4LF
+XT30PW-M                        J2             AMASS_XT30PW-M
+XT60-M                          J3             AMASS_XT60-M
+XT60-M                          J4             AMASS_XT60-M
+XT60-M                          J5             AMASS_XT60-M
+217183-0001                     J6             2171830001
+74439370100                     L1             74439370100
+NPI31W4R7MTRF                   L2             NPI31W4R7MTRF
+150060RS83000                   LED1           LEDC1608X115N
+150060YS75020                   LED2           150060YS75020
+150060VS83000                   LED3           150060VS83000
+2N7002,235                      Q1             SOT95P230X110-3N
+2N7002,235                      Q2             SOT95P230X110-3N
+BSS84-G                         Q3             SOT95P240X120-3N
+2N7002,235                      Q4             SOT95P230X110-3N
+2N7002,235                      Q5             SOT95P230X110-3N
+BSS84-G                         Q6             SOT95P240X120-3N
+BSS84-G                         Q7             SOT95P240X120-3N
+BUK7K3R7-40NX                   Q8             BUK7K29100EX
+Resistor_SMD                    R1             RES_1206
+Resistor_SMD                    R2             RES_1206
+Resistor_SMD                    R3             RES_1206
+Resistor_SMD                    R4             RES_1206
+Resistor_SMD                    R5             RES_1206
+Resistor_SMD                    R6             RES_1206
+Resistor_SMD                    R7             RES_1206
+Resistor_SMD                    R8             RES_1206
+Resistor_SMD                    R9             RES_1206
+Resistor_SMD                    R10            RES_1206
+Resistor_SMD                    R11            RES_1206
+Resistor_SMD                    R12            RES_1206
+Resistor_SMD                    R13            RES_1206
+Resistor_SMD                    R14            RES_1206
+Resistor_SMD                    R15            RES_1206
+WSHM28182L500FEA                R16            WSHM28182L500FEA
+Resistor_SMD                    R17            RES_1206
+Resistor_SMD                    R18            RES_1206
+Resistor_SMD                    R19            RES_1206
+Resistor_SMD                    R20            RES_1206
+Resistor_SMD                    R21            RES_1206
+Resistor_SMD                    R22            RES_1206
+Resistor_SMD                    R23            RES_1206
+CSS2H-2512R-1L00FE              R24            CSS2H2512R1L00FE
+Resistor_SMD                    R25            RES_1206
+Resistor_SMD                    R26            RES_1206
+Resistor_SMD                    R27            RES_1206
+Resistor_SMD                    R28            RES_1206
+Resistor_SMD                    R29            RES_1206
+Resistor_SMD                    R30            RES_1206
+Resistor_SMD                    R31            RES_1206
+Resistor_SMD                    R32            RES_1206
+Resistor_SMD                    R33            RES_1206
+Resistor_SMD                    R34            RES_1206
+Resistor_SMD                    R35            RES_1206
+Resistor_SMD                    R36            RES_1206
+Resistor_SMD                    R37            RES_1206
+Resistor_SMD                    R38            RES_1206
+Resistor_SMD                    R39            RES_1206
+Resistor_SMD                    R40            RES_1206
+Resistor_SMD                    R41            RES_1206
+Resistor_SMD                    R42            RES_1206
+Resistor_SMD                    R43            RES_1206
+Resistor_SMD                    R44            RES_1206
+Resistor_SMD                    R45            RES_1206
+Resistor_SMD                    R46            RES_1206
+Resistor_SMD                    R47            RES_1206
+Resistor_SMD                    R48            RES_1206
+ABM3BAIG-8.000MHZ-1Z-T          Y1             FP-ABM3BAIG-MFG
+BZT52C5V6T-7                    Z1             BZT52C5V6T7
+AZ23C5V6-E3-08                  Z2             SOT95P248X115-3N
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00147] VSSA
+        IC6        8       VSSA/VREF-     POWER       STM32L431CBT6
+
+[00146] VIN
+        C12        2       2              PASSIVE     Capacitor_SMD
+        C13        2       2              PASSIVE     Capacitor_SMD
+        C14        2       2              PASSIVE     Capacitor_SMD
+        C15        2       2              PASSIVE     Capacitor_SMD
+        IC3        3       VIN            PASSIVE     TPS62933ODRLR
+        IC4        3       VIN            PASSIVE     TPS62933ODRLR
+        IC5        8       VOUT           PASSIVE     LTC4368IMS-2#PBF
+        R24        2       2              PASSIVE     CSS2H-2512R-1L00FE
+
+[00145] VEN
+        IC2        2       VEN            PASSIVE     BQ34Z100PWR-R2
+        Q1         1       G              PASSIVE     2N7002,235
+        Q7         3       S              PASSIVE     BSS84-G
+
+[00144] VDDA
+        C24        1       1              PASSIVE     Capacitor_SMD
+        FB1        2       2              PASSIVE     BLM18AG601SH1D
+        IC6        9       VDDA/VREF+     POWER       STM32L431CBT6
+
+[00143] SW2
+        C9         1       1              PASSIVE     Capacitor_SMD
+        IC4        5       SW             PASSIVE     TPS62933ODRLR
+        L2         1       1              PASSIVE     NPI31W4R7MTRF
+
+[00142] SW1
+        C8         1       1              PASSIVE     Capacitor_SMD
+        IC3        5       SW             PASSIVE     TPS62933ODRLR
+        L1         1       1              PASSIVE     74439370100
+
+[00141] STATE
+        IC2        3       P1             PASSIVE     BQ34Z100PWR-R2
+        IC6        18      PB0            PASSIVE     STM32L431CBT6
+        Q5         1       G              PASSIVE     2N7002,235
+
+[00140] SDA
+        IC2        14      P3/SDA         PASSIVE     BQ34Z100PWR-R2
+        R9         1       1              PASSIVE     Resistor_SMD
+        R11        2       2              PASSIVE     Resistor_SMD
+
+[00139] SCL
+        IC2        13      P4/SCL         PASSIVE     BQ34Z100PWR-R2
+        R10        1       1              PASSIVE     Resistor_SMD
+        R13        2       2              PASSIVE     Resistor_SMD
+
+[00138] REGIN
+        C2         2       2              PASSIVE     Capacitor_SMD
+        IC2        6       REGIN          PASSIVE     BQ34Z100PWR-R2
+        Q2         2       S              PASSIVE     2N7002,235
+        Q6         2       D              PASSIVE     BSS84-G
+        R3         2       2              PASSIVE     Resistor_SMD
+        R4         2       2              PASSIVE     Resistor_SMD
+        R9         2       2              PASSIVE     Resistor_SMD
+        R10        2       2              PASSIVE     Resistor_SMD
+
+[00137] REG25
+        1          1       1              PASSIVE     503159-0200
+        C6         2       2              PASSIVE     Capacitor_SMD
+        IC2        7       REG25          PASSIVE     BQ34Z100PWR-R2
+        R8         2       2              PASSIVE     Resistor_SMD
+
+[00136] PG1
+        IC3        7       PG             PASSIVE     TPS62933ODRLR
+        IC6        14      PA4            PASSIVE     STM32L431CBT6
+
+[00135] OSC_OUT
+        C18        1       1              PASSIVE     Capacitor_SMD
+        IC6        6       PH1-OSC_OUT_(PHPASSIVE     STM32L431CBT6
+        R31        2       2              PASSIVE     Resistor_SMD
+        Y1         1       1              PASSIVE     ABM3BAIG-8.000MHZ-1Z-T
+
+[00134] OSC_IN
+        C19        1       1              PASSIVE     Capacitor_SMD
+        IC6        5       PH0-OSC_IN_(PH0PASSIVE     STM32L431CBT6
+        R31        1       1              PASSIVE     Resistor_SMD
+        Y1         3       3              PASSIVE     ABM3BAIG-8.000MHZ-1Z-T
+
+[00133] NetR13_1
+        R13        1       1              PASSIVE     Resistor_SMD
+        R14        2       2              PASSIVE     Resistor_SMD
+        Z2         2       CATHODE_2      PASSIVE     AZ23C5V6-E3-08
+
+[00132] NetR11_1
+        R11        1       1              PASSIVE     Resistor_SMD
+        R12        2       2              PASSIVE     Resistor_SMD
+        Z2         1       CATHODE_1      PASSIVE     AZ23C5V6-E3-08
+
+[00131] NetQ8_1
+        Q8         1       S1             PASSIVE     BUK7K3R7-40NX
+        Q8         3       S2             PASSIVE     BUK7K3R7-40NX
+
+[00130] NetQ7_2
+        Q7         2       D              PASSIVE     BSS84-G
+        R8         1       1              PASSIVE     Resistor_SMD
+
+[00129] NetQ3_2
+        Q3         2       D              PASSIVE     BSS84-G
+        R5         1       1              PASSIVE     Resistor_SMD
+
+[00128] NetQ3_1
+        Q3         1       G              PASSIVE     BSS84-G
+        R1         2       2              PASSIVE     Resistor_SMD
+        R2         1       1              PASSIVE     Resistor_SMD
+
+[00127] NetQ2_1
+        Q2         1       G              PASSIVE     2N7002,235
+        R6         2       2              PASSIVE     Resistor_SMD
+        Z1         1       K              PASSIVE     BZT52C5V6T-7
+
+[00126] NetQ1_3
+        Q1         3       D              PASSIVE     2N7002,235
+        R2         2       2              PASSIVE     Resistor_SMD
+
+[00125] NetLED3_2
+        LED3       2       A              PASSIVE     150060VS83000
+        R32        1       1              PASSIVE     Resistor_SMD
+
+[00124] NetLED2_2
+        LED2       2       K              PASSIVE     150060YS75020
+        Q5         3       D              PASSIVE     2N7002,235
+
+[00123] NetLED2_1
+        LED2       1       A              PASSIVE     150060YS75020
+        R4         1       1              PASSIVE     Resistor_SMD
+
+[00122] NetLED1_2
+        LED1       2       A              PASSIVE     150060RS83000
+        R3         1       1              PASSIVE     Resistor_SMD
+
+[00121] NetLED1_1
+        LED1       1       K              PASSIVE     150060RS83000
+        Q4         3       D              PASSIVE     2N7002,235
+
+[00108] NetJ6_A4
+        J6         A4      VBUS_1         PASSIVE     217183-0001
+        J6         A9      VBUS_2         PASSIVE     217183-0001
+        J6         B4      VBUS_3         PASSIVE     217183-0001
+        J6         B9      VBUS_4         PASSIVE     217183-0001
+        R39        1       1              PASSIVE     Resistor_SMD
+
+[00100] NetIC9_7
+        IC9        7       IN_6           PASSIVE     SP723ABTG
+        J1         6       6              PASSIVE     20021321-00014T4LF
+        R45        2       2              PASSIVE     Resistor_SMD
+
+[00099] NetIC9_6
+        IC9        6       IN_5           PASSIVE     SP723ABTG
+        J1         4       4              PASSIVE     20021321-00014T4LF
+        R46        2       2              PASSIVE     Resistor_SMD
+
+[00097] NetIC9_3
+        IC9        3       IN_3           PASSIVE     SP723ABTG
+        J1         8       8              PASSIVE     20021321-00014T4LF
+        R44        2       2              PASSIVE     Resistor_SMD
+
+[00096] NetIC9_2
+        IC9        2       IN_2           PASSIVE     SP723ABTG
+        J1         10      10             PASSIVE     20021321-00014T4LF
+        R43        2       2              PASSIVE     Resistor_SMD
+
+[00092] NetIC8_23
+        IC8        23      RXD            PASSIVE     CY7C64225-28PVXC
+        R38        2       2              PASSIVE     Resistor_SMD
+
+[00091] NetIC8_22
+        IC8        22      WAKE           PASSIVE     CY7C64225-28PVXC
+        R40        1       1              PASSIVE     Resistor_SMD
+
+[00085] NetIC8_15
+        IC8        15      D-             PASSIVE     CY7C64225-28PVXC
+        R42        1       1              PASSIVE     Resistor_SMD
+
+[00084] NetIC8_14
+        IC8        14      D+             PASSIVE     CY7C64225-28PVXC
+        R41        2       2              PASSIVE     Resistor_SMD
+
+[00079] NetIC8_7
+        IC8        7       VBUS           PASSIVE     CY7C64225-28PVXC
+        R39        2       2              PASSIVE     Resistor_SMD
+
+[00077] NetIC8_5
+        IC8        5       DTR            PASSIVE     CY7C64225-28PVXC
+        IC8        8       DSR            PASSIVE     CY7C64225-28PVXC
+
+[00076] NetIC8_4
+        IC8        4       TXD            PASSIVE     CY7C64225-28PVXC
+        R36        2       2              PASSIVE     Resistor_SMD
+
+[00073] NetIC7_8
+        IC7        8       STB            PASSIVE     TCAN1462DRQ1
+        R33        2       2              PASSIVE     Resistor_SMD
+
+[00070] NetIC6_44
+        IC6        44      PH3-BOOT0      PASSIVE     STM32L431CBT6
+        R30        2       2              PASSIVE     Resistor_SMD
+
+[00069] NetIC6_43
+        IC6        43      PB7            PASSIVE     STM32L431CBT6
+        R36        1       1              PASSIVE     Resistor_SMD
+        R37        2       2              PASSIVE     Resistor_SMD
+
+[00068] NetIC6_42
+        IC6        42      PB6            PASSIVE     STM32L431CBT6
+        R38        1       1              PASSIVE     Resistor_SMD
+
+[00067] NetIC6_41
+        IC6        41      PB5            PASSIVE     STM32L431CBT6
+        IC8        26      VCFG           PASSIVE     CY7C64225-28PVXC
+
+[00065] NetIC6_39
+        IC6        39      PB3_(JTDO-TRACEPASSIVE     STM32L431CBT6
+        R44        1       1              PASSIVE     Resistor_SMD
+
+[00064] NetIC6_38
+        IC6        38      PA15_(JTDI)    PASSIVE     STM32L431CBT6
+        R43        1       1              PASSIVE     Resistor_SMD
+
+[00063] NetIC6_37
+        IC6        37      PA14_(JTCK-SWCLPASSIVE     STM32L431CBT6
+        R45        1       1              PASSIVE     Resistor_SMD
+
+[00062] NetIC6_34
+        IC6        34      PA13_(JTMS-SWDIPASSIVE     STM32L431CBT6
+        R46        1       1              PASSIVE     Resistor_SMD
+
+[00061] NetIC6_33
+        IC6        33      PA12           PASSIVE     STM32L431CBT6
+        IC7        4       RXD            PASSIVE     TCAN1462DRQ1
+
+[00060] NetIC6_32
+        IC6        32      PA11           PASSIVE     STM32L431CBT6
+        IC7        1       TXD            PASSIVE     TCAN1462DRQ1
+
+[00059] NetIC6_31
+        IC6        31      PA10           PASSIVE     STM32L431CBT6
+        R12        1       1              PASSIVE     Resistor_SMD
+
+[00058] NetIC6_30
+        IC6        30      PA9            PASSIVE     STM32L431CBT6
+        R14        1       1              PASSIVE     Resistor_SMD
+
+[00042] NetIC5_10
+        IC5        10      GATE           PASSIVE     LTC4368IMS-2#PBF
+        Q8         2       G1             PASSIVE     BUK7K3R7-40NX
+        Q8         4       G2             PASSIVE     BUK7K3R7-40NX
+        R25        2       2              PASSIVE     Resistor_SMD
+
+[00041] NetIC5_9
+        IC5        9       SENSE          PASSIVE     LTC4368IMS-2#PBF
+        Q8         5       D2_1           PASSIVE     BUK7K3R7-40NX
+        Q8         6       D2_2           PASSIVE     BUK7K3R7-40NX
+        Q8         10      D2_3           PASSIVE     BUK7K3R7-40NX
+        R24        1       1              PASSIVE     CSS2H-2512R-1L00FE
+
+[00039] NetIC5_6
+        IC5        6       S\H\D\N\       PASSIVE     LTC4368IMS-2#PBF
+        R28        2       2              PASSIVE     Resistor_SMD
+
+[00038] NetIC5_3
+        IC5        3       OV             PASSIVE     LTC4368IMS-2#PBF
+        R27        1       1              PASSIVE     Resistor_SMD
+        R29        2       2              PASSIVE     Resistor_SMD
+
+[00037] NetIC5_2
+        IC5        2       UV             PASSIVE     LTC4368IMS-2#PBF
+        R26        1       1              PASSIVE     Resistor_SMD
+        R27        2       2              PASSIVE     Resistor_SMD
+
+[00034] NetIC4_1
+        IC4        1       RT             PASSIVE     TPS62933ODRLR
+        R19        2       2              PASSIVE     Resistor_SMD
+
+[00032] NetIC3_1
+        IC3        1       RT             PASSIVE     TPS62933ODRLR
+        R18        2       2              PASSIVE     Resistor_SMD
+
+[00030] NetIC2_10
+        IC2        10      SRN            PASSIVE     BQ34Z100PWR-R2
+        R15        2       2              PASSIVE     Resistor_SMD
+        R16        2       2              PASSIVE     WSHM28182L500FEA
+
+[00029] NetIC1_6
+        IC1        6       1Y             OUTPUT      SN74LVC2G04DBVRE4
+        Q6         1       G              PASSIVE     BSS84-G
+
+[00028] NetIC1_4
+        IC1        4       2Y             OUTPUT      SN74LVC2G04DBVRE4
+        Q7         1       G              PASSIVE     BSS84-G
+
+[00027] NetIC1_3
+        IC1        3       2A             INPUT       SN74LVC2G04DBVRE4
+        IC6        16      PA6            PASSIVE     STM32L431CBT6
+
+[00026] NetIC1_1
+        IC1        1       1A             INPUT       SN74LVC2G04DBVRE4
+        IC6        17      PA7            PASSIVE     STM32L431CBT6
+
+[00025] NetC30_1
+        C30        1       1              PASSIVE     Capacitor_SMD
+        IC6        7       NRST           PASSIVE     STM32L431CBT6
+        IC9        1       IN_1           PASSIVE     SP723ABTG
+        J1         12      12             PASSIVE     20021321-00014T4LF
+
+[00024] NetC28_1
+        C28        1       1              PASSIVE     Capacitor_SMD
+        R34        2       2              PASSIVE     Resistor_SMD
+        R35        2       2              PASSIVE     Resistor_SMD
+
+[00023] NetC17_1
+        C17        1       1              PASSIVE     Capacitor_SMD
+        IC5        4       RETRY          PASSIVE     LTC4368IMS-2#PBF
+
+[00022] NetC16_1
+        C16        1       1              PASSIVE     Capacitor_SMD
+        R25        1       1              PASSIVE     Resistor_SMD
+
+[00021] NetC9_2
+        C9         2       2              PASSIVE     Capacitor_SMD
+        IC4        6       BST            PASSIVE     TPS62933ODRLR
+
+[00020] NetC8_2
+        C8         2       2              PASSIVE     Capacitor_SMD
+        IC3        6       BST            PASSIVE     TPS62933ODRLR
+
+[00019] Net1_2
+        1          2       2              PASSIVE     503159-0200
+        IC2        11      P6/TS          PASSIVE     BQ34Z100PWR-R2
+
+[00017] GND_uC
+        C10        1       1              PASSIVE     Capacitor_SMD
+        C11        1       1              PASSIVE     Capacitor_SMD
+        C12        1       1              PASSIVE     Capacitor_SMD
+        C13        1       1              PASSIVE     Capacitor_SMD
+        C14        1       1              PASSIVE     Capacitor_SMD
+        C15        1       1              PASSIVE     Capacitor_SMD
+        C18        2       2              PASSIVE     Capacitor_SMD
+        C19        2       2              PASSIVE     Capacitor_SMD
+        C20        2       2              PASSIVE     Capacitor_SMD
+        C21        2       2              PASSIVE     Capacitor_SMD
+        C22        2       2              PASSIVE     Capacitor_SMD
+        C23        2       2              PASSIVE     Capacitor_SMD
+        C24        2       2              PASSIVE     Capacitor_SMD
+        C25        2       2              PASSIVE     Capacitor_SMD
+        C26        2       2              PASSIVE     Capacitor_SMD
+        C27        2       2              PASSIVE     Capacitor_SMD
+        C28        2       2              PASSIVE     Capacitor_SMD
+        C29        2       2              PASSIVE     Capacitor_SMD
+        C30        2       2              PASSIVE     Capacitor_SMD
+        C31        2       2              PASSIVE     Capacitor_SMD
+        D2         3       3              PASSIVE     VCAN26A2-03G-E3-08
+        D3         2       V-             PASSIVE     SP724AHTG
+        IC3        4       GND            PASSIVE     TPS62933ODRLR
+        IC4        4       GND            PASSIVE     TPS62933ODRLR
+        IC6        23      VSS_1          POWER       STM32L431CBT6
+        IC6        35      VSS_2          POWER       STM32L431CBT6
+        IC6        47      VSS_3          POWER       STM32L431CBT6
+        IC7        2       GND            PASSIVE     TCAN1462DRQ1
+        IC8        1       GND_1          PASSIVE     CY7C64225-28PVXC
+        IC8        13      GND_2          PASSIVE     CY7C64225-28PVXC
+        IC9        4       V-             PASSIVE     SP723ABTG
+        J1         5       5              PASSIVE     20021321-00014T4LF
+        J1         7       7              PASSIVE     20021321-00014T4LF
+        J1         11      11             PASSIVE     20021321-00014T4LF
+        J2         N       N              POWER       XT30PW-M
+        J6         A1      GND_1          PASSIVE     217183-0001
+        J6         A12     GND_2          PASSIVE     217183-0001
+        J6         B1      GND_3          PASSIVE     217183-0001
+        J6         B12     GND_4          PASSIVE     217183-0001
+        LED3       1       K              PASSIVE     150060VS83000
+        R18        1       1              PASSIVE     Resistor_SMD
+        R19        1       1              PASSIVE     Resistor_SMD
+        R22        2       2              PASSIVE     Resistor_SMD
+        R23        2       2              PASSIVE     Resistor_SMD
+        R30        1       1              PASSIVE     Resistor_SMD
+        R33        1       1              PASSIVE     Resistor_SMD
+        R37        1       1              PASSIVE     Resistor_SMD
+        R40        2       2              PASSIVE     Resistor_SMD
+        R47        1       1              PASSIVE     Resistor_SMD
+        R48        1       1              PASSIVE     Resistor_SMD
+        Y1         2       GND            POWER       ABM3BAIG-8.000MHZ-1Z-T
+        Y1         4       GND            POWER       ABM3BAIG-8.000MHZ-1Z-T
+
+[00018] GND_uC
+        C4         2       2              PASSIVE     Capacitor_SMD
+        C5         2       2              PASSIVE     Capacitor_SMD
+        IC1        2       GND            POWER       SN74LVC2G04DBVRE4
+        J4         N       NEG            PASSIVE     XT60-M
+        J5         N       NEG            PASSIVE     XT60-M
+        R15        1       1              PASSIVE     Resistor_SMD
+
+[00016] GND
+        C1         1       1              PASSIVE     Capacitor_SMD
+        C2         1       1              PASSIVE     Capacitor_SMD
+        C3         1       1              PASSIVE     Capacitor_SMD
+        C4         1       1              PASSIVE     Capacitor_SMD
+        C5         1       1              PASSIVE     Capacitor_SMD
+        C6         1       1              PASSIVE     Capacitor_SMD
+        C7         1       1              PASSIVE     Capacitor_SMD
+        C7         2       2              PASSIVE     Capacitor_SMD
+        C16        2       2              PASSIVE     Capacitor_SMD
+        C17        2       2              PASSIVE     Capacitor_SMD
+        D1         1       1              PASSIVE     SZSMF6L30CAT3G
+        IC2        8       VSS            PASSIVE     BQ34Z100PWR-R2
+        IC2        9       SRP            PASSIVE     BQ34Z100PWR-R2
+        IC5        5       GND            PASSIVE     LTC4368IMS-2#PBF
+        J3         N       NEG            PASSIVE     XT60-M
+        Q1         2       S              PASSIVE     2N7002,235
+        Q4         2       S              PASSIVE     2N7002,235
+        Q5         2       S              PASSIVE     2N7002,235
+        R7         1       1              PASSIVE     Resistor_SMD
+        R16        1       1              PASSIVE     WSHM28182L500FEA
+        R17        1       1              PASSIVE     Resistor_SMD
+        R17        2       2              PASSIVE     Resistor_SMD
+        R29        1       1              PASSIVE     Resistor_SMD
+        Z1         2       A              PASSIVE     BZT52C5V6T-7
+        Z2         3       COMMON_ANODE   PASSIVE     AZ23C5V6-E3-08
+
+[00015] FB2
+        IC4        8       FB             PASSIVE     TPS62933ODRLR
+        R21        2       2              PASSIVE     Resistor_SMD
+        R23        1       1              PASSIVE     Resistor_SMD
+
+[00014] FB1
+        IC3        8       FB             PASSIVE     TPS62933ODRLR
+        R20        2       2              PASSIVE     Resistor_SMD
+        R22        1       1              PASSIVE     Resistor_SMD
+
+[00013] ENABLE
+        IC2        5       CE             PASSIVE     BQ34Z100PWR-R2
+        Q6         3       S              PASSIVE     BSS84-G
+
+[00012] DEBUG_LED
+        IC6        15      PA5            PASSIVE     STM32L431CBT6
+        R32        2       2              PASSIVE     Resistor_SMD
+
+[00011] D-
+        D3         4       I/O_3          PASSIVE     SP724AHTG
+        J6         A7      DN1            PASSIVE     217183-0001
+        J6         B7      DN2            PASSIVE     217183-0001
+        R42        2       2              PASSIVE     Resistor_SMD
+
+[00010] D+
+        D3         6       I/O_4          PASSIVE     SP724AHTG
+        J6         A6      DP1            PASSIVE     217183-0001
+        J6         B6      DP2            PASSIVE     217183-0001
+        R41        1       1              PASSIVE     Resistor_SMD
+
+[00009] CC2
+        J6         B5      CC2            PASSIVE     217183-0001
+        R48        2       2              PASSIVE     Resistor_SMD
+
+[00008] CC1
+        J6         A5      CC1            PASSIVE     217183-0001
+        R47        2       2              PASSIVE     Resistor_SMD
+
+[00007] CAN-L
+        2          2       2              PASSIVE     503159-0200
+        D2         1       1              PASSIVE     VCAN26A2-03G-E3-08
+        D3         1       I/O_1          PASSIVE     SP724AHTG
+        IC7        6       CANL           PASSIVE     TCAN1462DRQ1
+        R35        1       1              PASSIVE     Resistor_SMD
+
+[00006] CAN-H
+        2          1       1              PASSIVE     503159-0200
+        D2         2       2              PASSIVE     VCAN26A2-03G-E3-08
+        D3         3       I/O_2          PASSIVE     SP724AHTG
+        IC7        7       CANH           PASSIVE     TCAN1462DRQ1
+        R34        1       1              PASSIVE     Resistor_SMD
+
+[00005] BATT+
+        D1         2       2              PASSIVE     SZSMF6L30CAT3G
+        IC5        1       VIN            PASSIVE     LTC4368IMS-2#PBF
+        J3         P       POS            PASSIVE     XT60-M
+        J4         P       POS            PASSIVE     XT60-M
+        J5         P       POS            PASSIVE     XT60-M
+        Q2         3       D              PASSIVE     2N7002,235
+        Q3         3       S              PASSIVE     BSS84-G
+        Q8         7       D1_1           PASSIVE     BUK7K3R7-40NX
+        Q8         8       D1_2           PASSIVE     BUK7K3R7-40NX
+        Q8         9       D1_3           PASSIVE     BUK7K3R7-40NX
+        R1         1       1              PASSIVE     Resistor_SMD
+        R6         1       1              PASSIVE     Resistor_SMD
+        R26        2       2              PASSIVE     Resistor_SMD
+        R28        1       1              PASSIVE     Resistor_SMD
+
+[00004] BAT
+        C1         2       2              PASSIVE     Capacitor_SMD
+        IC2        4       BAT            PASSIVE     BQ34Z100PWR-R2
+        R5         2       2              PASSIVE     Resistor_SMD
+        R7         2       2              PASSIVE     Resistor_SMD
+
+[00003] ALERT
+        IC2        1       P2             PASSIVE     BQ34Z100PWR-R2
+        IC6        19      PB1            PASSIVE     STM32L431CBT6
+        Q4         1       G              PASSIVE     2N7002,235
+
+[00002] +5
+        C10        2       2              PASSIVE     Capacitor_SMD
+        C25        1       1              PASSIVE     Capacitor_SMD
+        C26        1       1              PASSIVE     Capacitor_SMD
+        D3         5       V+             PASSIVE     SP724AHTG
+        IC7        3       VCC            PASSIVE     TCAN1462DRQ1
+        IC8        16      VDD_1          PASSIVE     CY7C64225-28PVXC
+        IC8        28      VDD_2          PASSIVE     CY7C64225-28PVXC
+        J2         P       P              POWER       XT30PW-M
+        L1         2       2              PASSIVE     74439370100
+        R20        1       1              PASSIVE     Resistor_SMD
+
+[00001] +2V5
+        C3         2       2              PASSIVE     Capacitor_SMD
+        C11        2       2              PASSIVE     Capacitor_SMD
+        C20        1       1              PASSIVE     Capacitor_SMD
+        C21        1       1              PASSIVE     Capacitor_SMD
+        C22        1       1              PASSIVE     Capacitor_SMD
+        C23        1       1              PASSIVE     Capacitor_SMD
+        C27        1       1              PASSIVE     Capacitor_SMD
+        C29        1       1              PASSIVE     Capacitor_SMD
+        C31        1       1              PASSIVE     Capacitor_SMD
+        FB1        1       1              PASSIVE     BLM18AG601SH1D
+        IC1        5       VCC            POWER       SN74LVC2G04DBVRE4
+        IC6        1       VBAT           POWER       STM32L431CBT6
+        IC6        24      VDD_1          POWER       STM32L431CBT6
+        IC6        36      VDDUSB         POWER       STM32L431CBT6
+        IC6        48      VDD_2          POWER       STM32L431CBT6
+        IC7        5       NC_VIO         PASSIVE     TCAN1462DRQ1
+        IC9        8       V+             PASSIVE     SP723ABTG
+        J1         3       3              PASSIVE     20021321-00014T4LF
+        L2         2       2              PASSIVE     NPI31W4R7MTRF
+        R21        1       1              PASSIVE     Resistor_SMD
+
