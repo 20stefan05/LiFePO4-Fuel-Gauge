@@ -53,23 +53,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=LiFePO4 Fuel Gauge.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MBYQGLKG
-
-[Document2]
 DocumentPath=Power_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +69,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNCYDFMN
 
-[Document3]
+[Document2]
 DocumentPath=UART to USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBYTWOEM
 
-[Document4]
+[Document3]
 DocumentPath=Input Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSZFAFMU
 
-[Document5]
+[Document4]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYFTADQN
 
-[Document6]
+[Document5]
 DocumentPath=Overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTYDNBAZ
 
-[Document7]
+[Document6]
 DocumentPath=STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPDZRUTV
 
-[Document8]
+[Document7]
 DocumentPath=Fuel Gauge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQTJZVYL
 
-[Document9]
+[Document8]
 DocumentPath=Buck Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBQFYYMF
 
-[Document10]
+[Document9]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQLBDWYQ
 
-[Document11]
+[Document10]
 DocumentPath=Signal_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,6 +221,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONMDRANN
+
+[Document11]
+DocumentPath=LiFePO4 Fuel Gauge.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MBYQGLKG
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LiFePO4 Fuel Gauge\LiFePO4 Fuel Gauge.NET
